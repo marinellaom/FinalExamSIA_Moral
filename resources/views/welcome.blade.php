@@ -16,7 +16,7 @@
   <div class="container bg-opacity-dark p-5">
     <div class="header border border-dark bg-opacity-tan p-5 mb-5 mx-4">
       <h1 class="text-center">Final Exam - API </h1>
-      <h5 class="text-center">Moral, Marinella O. </h5>
+      <h5 class="text-center">Moral, Marinella O.</h5>
       <h6 class="text-center">BSIT - 4A </h6>
 
 
