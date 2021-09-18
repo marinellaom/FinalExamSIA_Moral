@@ -15,9 +15,9 @@
 <body class="bg-white">
   <div class="container bg-opacity-dark p-5">
     <div class="header border border-dark bg-opacity-tan p-5 mb-5 mx-4">
-      <h1 class="text-center">Final Exam - API </h1>
-      <h5 class="text-center">Moral, Marinella O.</h5>
-      <h6 class="text-center">BSIT - 4A </h6>
+      <h1 class="text-center">Final Exam - Public API </h1>
+      <h3 class="text-center">Moral, Marinella O. | BSIT - 4A</h3>
+      <h3 class="text-center">AccuWeather API - City Search</h3>
 
 
     </div>
@@ -30,11 +30,11 @@
             <div class="col-sm-6"><label for="value1">Language</label></div>
           </div>
           <div class="row m-2">
-            <div class="col-sm-6"><input type="text" name="q" id="" placeholder="Input City" value="Manila"></div>
+            <div class="col-sm-6"><input type="text" name="q" id="" placeholder="Input City" value="Batangas"></div>
             <div class="col-sm-6"><input type="text" name="language" id="" placeholder="en-us" value="en-us"></div>
           </div>
     
-          <button type="submit" class="mt-3 btn btn-info">Submit</button>
+          <button type="submit" class="mt-3 btn btn-info">Search</button>
         </form>
       </div>
     </div>
